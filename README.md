@@ -1,19 +1,19 @@
 ### Hello World, I'm <a href="https://iamirzashowvik.github.io/portfolio/">Shamim Anowar</a> ! 👋
 
 
-<a href="https://twitter.com/Mirza09206465">
+<!-- <a href="https://twitter.com/Mirza09206465">
   <img align="left" alt="Mirza's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/mirzashowvik">
+</a> -->
+<a href="https://www.linkedin.com/in/shamim-anowar-junior-developer/">
   <img align="left" alt="Mirza's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iamirzashowvik">
+<a href="https://github.com/Shamimanowar">
   <img align="left" alt="Mirza's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/mirzaShowvik">
+<a href="https://t.me/shamim_anowar">
   <img align="left" alt="Mirza's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.facebook.com/mirzashowvik/">
+<a href="https://www.facebook.com/shamim.anowar.junior.developer/">
   <img align="left" alt="Mirza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -22,12 +22,13 @@
 <br/>
 
 
-- 🔭 I’m currently working on Bidyasagor.
-- 🏫 Studying Wet Process Engineering  in  [Bangladesh University of Textiles (BUTEX)](https://www.butex.edu.bd/).
-- 🌱 I’m currently working on Flutter and learning Node.JS(TypeScript).
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Facebook - @mirzashowvik](https://fb.com/mirzashowvik) , [telegram - @mirzaShowvik](https://t.me/mirzaShowvik).
-- 😀 Love to code.
+- 🔭 I’m currently working on UGS funded project.
+- 🏫 Studying Machine Design and Maintenance in  [Bangladesh University of Textiles (BUTEX)](https://www.butex.edu.bd/).
+- 🌱 I’m currently working on ReactJS and Django.
+- 🌱 I can use these technologies - HTML, CSS, SASS, Bootstrap, JavaScript, ReactJS, jQuery, Python, Django, MySQL
+- 💬 Ask me about these technologies or any tech related stuff.
+- 📫 How to reach me: [Facebook - @ShamimAnowar](https://www.facebook.com/shamim.anowar.junior.developer/) , [telegram - @ShamimAnowar](https://t.me/shamim_anowar).
+- 😀 Love to code and Solve Software base problems.
 - ⚡ Day Dreamer.
   
 **Languages and Tools:**  
