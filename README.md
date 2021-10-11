@@ -1,4 +1,5 @@
-### Hello World, I'm <a href="https://iamirzashowvik.github.io/portfolio/">Shamim Anowar</a> ! 👋
+<!-- ### Hello World, I'm <a href="https://iamirzashowvik.github.io/portfolio/">Shamim Anowar</a> ! 👋 -->
+### Hello World, I'm <a href="https://www.facebook.com/shamim.anowar.junior.developer">Shamim Anowar</a> ! 👋
 
 
 <!-- <a href="https://twitter.com/Mirza09206465">
@@ -32,7 +33,7 @@
 - ⚡ Day Dreamer.
   
 **Languages and Tools:**  
-<div style="padding-y: 5px">
+<div style="">
 <code><img height="20" style="float:left" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code>
 <code><img height="20" style="float:left" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYY9DZvsvu0uiUY1V2gRg8NGbtTBtIJQZ09KIaUzqVF6zaEo6Aa6ktohOCMVSmiCB7CGE&usqp=CAU"></code>
