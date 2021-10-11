@@ -33,15 +33,15 @@
   
 **Languages and Tools:**  
 <div style="padding-y: 5px">
-<code><img height="30" style="float:left" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code>
-<code><img height="30" style="float:left" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png"></code>
-<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYY9DZvsvu0uiUY1V2gRg8NGbtTBtIJQZ09KIaUzqVF6zaEo6Aa6ktohOCMVSmiCB7CGE&usqp=CAU"></code>
-<code><img height="30" src="https://png.pngtree.com/png-vector/20190411/ourlarge/pngtree-css-file-document-icon-png-image_927823.jpg"></code>
-<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_HXX3PVXXG4_3nbFx4WXyr3BjkqxW3GEV6pmi5G4Ev0rtiXiVFNvvwiriM8FrzX03F3E&usqp=CAU"></code>
-<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHk_xHqunYwLK4duIHnKiLb7LO2GW96BGkNkmT9fNKc8WM-fn95gp3HW42MSnI95LUj0E&usqp=CAU"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png"></code>
-</div>
+<code><img height="20" style="float:left" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code>
+<code><img height="20" style="float:left" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYY9DZvsvu0uiUY1V2gRg8NGbtTBtIJQZ09KIaUzqVF6zaEo6Aa6ktohOCMVSmiCB7CGE&usqp=CAU"></code>
+<code><img height="20" src="https://png.pngtree.com/png-vector/20190411/ourlarge/pngtree-css-file-document-icon-png-image_927823.jpg"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_HXX3PVXXG4_3nbFx4WXyr3BjkqxW3GEV6pmi5G4Ev0rtiXiVFNvvwiriM8FrzX03F3E&usqp=CAU"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHk_xHqunYwLK4duIHnKiLb7LO2GW96BGkNkmT9fNKc8WM-fn95gp3HW42MSnI95LUj0E&usqp=CAU"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png"></code>
+</div><br>
 <!-- it is the original format for icon -->
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
 
