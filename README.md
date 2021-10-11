@@ -5,16 +5,16 @@
   <img align="left" alt="Mirza's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/shamim-anowar-junior-developer/">
-  <img align="left" alt="Mirza's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Mirza's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color: white" />
 </a>
 <a href="https://github.com/Shamimanowar">
-  <img align="left" alt="Mirza's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Mirza's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="background-color: white"  />
 </a>
 <a href="https://t.me/shamim_anowar">
-  <img align="left" alt="Mirza's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Mirza's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="background-color: white"  />
 </a>
 <a href="https://www.facebook.com/shamim.anowar.junior.developer/">
-  <img align="left" alt="Mirza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Mirza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="background-color: white"  />
 </a>
 
 
@@ -23,7 +23,7 @@
 
 
 - 🔭 I’m currently working on UGS funded project.
-- 🏫 Studying Machine Design and Maintenance in  [Bangladesh University of Textiles (BUTEX)](https://www.butex.edu.bd/).
+- 🏫 Studying Machine Design and Maintenance Engineering in  [Bangladesh University of Textiles (BUTEX)](https://www.butex.edu.bd/).
 - 🌱 I’m currently working on ReactJS and Django.
 - 🌱 I can use these technologies - HTML, CSS, SASS, Bootstrap, JavaScript, ReactJS, jQuery, Python, Django, MySQL
 - 💬 Ask me about these technologies or any tech related stuff.
