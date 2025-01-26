@@ -1,57 +1,50 @@
-<!-- ### Hello World, I'm <a href="https://iamirzashowvik.github.io/portfolio/">Shamim Anowar</a> ! 👋 -->
-### Hello World, I'm <a href="https://www.facebook.com/shamim.anowar.junior.developer">Shamim Anowar</a> ! 👋
+<a href="https://www.linkedin.com/in/shamim.anowar/"> <img align="left" alt="Shamim's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color: white" /> </a> <a href="https://github.com/Shamimanowar"> <img align="left" alt="Shamim's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="background-color: white" /> </a> <a href="https://t.me/shamim_anowar"> <img align="left" alt="Shamim's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="background-color: white" /> </a> <a href="https://www.facebook.com/shamim.anowar.junior.developer/"> <img align="left" alt="Shamim's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="background-color: white" /> </a>
 
+<br/> <br/>
 
-<!-- <a href="https://twitter.com/Mirza09206465">
-  <img align="left" alt="Mirza's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
-<a href="https://www.linkedin.com/in/shamim-anowar-junior-developer/">
-  <img align="left" alt="Mirza's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color: white" />
-</a>
-<a href="https://github.com/Shamimanowar">
-  <img align="left" alt="Mirza's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="background-color: white"  />
-</a>
-<a href="https://t.me/shamim_anowar">
-  <img align="left" alt="Mirza's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="background-color: white"  />
-</a>
-<a href="https://www.facebook.com/shamim.anowar.junior.developer/">
-  <img align="left" alt="Mirza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="background-color: white"  />
-</a>
+🔭 I’m currently working at BuildNow, KSA.
 
+🏫 B.Sc in Mechanical Engineering.
 
-<br/>
-<br/>
+🌱 Dreaming for Tech Giants.
 
+💻 Proficient in Tailwind, JavaScript, TypeScript, ReactJS, NextJS, React Native, Python, Django, and MySQL, Docker, AWS.
 
-- 🔭 I’m currently working on UGS funded project.
-- 🏫 Studying Machine Design and Maintenance Engineering in  [Bangladesh University of Textiles (BUTEX)](https://www.butex.edu.bd/).
-- 🌱 I’m currently working on ReactJS and Django.
-- 🌱 I can use these technologies - HTML, CSS, SASS, Bootstrap, JavaScript, ReactJS, jQuery, Python, Django, MySQL
-- 💬 Ask me about these technologies or any tech related stuff.
-- 📫 How to reach me: [Facebook - @ShamimAnowar](https://www.facebook.com/shamim.anowar.junior.developer/) , [telegram - @ShamimAnowar](https://t.me/shamim_anowar).
-- 😀 Love to code and Solve Software base problems.
-- ⚡ Day Dreamer.
-  
-**Languages and Tools:**  
-<div style="">
-<code><img height="20" style="float:left" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code>
-<code><img height="20" style="float:left" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYY9DZvsvu0uiUY1V2gRg8NGbtTBtIJQZ09KIaUzqVF6zaEo6Aa6ktohOCMVSmiCB7CGE&usqp=CAU"></code>
-<code><img height="20" src="https://png.pngtree.com/png-vector/20190411/ourlarge/pngtree-css-file-document-icon-png-image_927823.jpg"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_HXX3PVXXG4_3nbFx4WXyr3BjkqxW3GEV6pmi5G4Ev0rtiXiVFNvvwiriM8FrzX03F3E&usqp=CAU"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHk_xHqunYwLK4duIHnKiLb7LO2GW96BGkNkmT9fNKc8WM-fn95gp3HW42MSnI95LUj0E&usqp=CAU"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png"></code>
-</div><br>
-<!-- it is the original format for icon -->
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
+💬 Feel free to ask me about these technologies or any tech-related topics.
 
-<!-- 
-⚡ My App (MEDX) Became Top 1 in Top Free Education Google Play Store.<br/><br/>
-<a href="https://play.google.com/store/apps/details?id=com.medX.bidyasagormedX">Check This App</a><br/>
-<img height="300" width="300" src="https://i.pinimg.com/originals/42/58/c8/4258c86b678ec3aae3c8b44e73e0709d.jpg"><br/> -->
-<img src="https://github-readme-stats.vercel.app/api?username=Shamimanowar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-<br/>
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamimanowar&theme=dark&hide_langs_below=1" />
+📫 Reach me on <a href="https://www.facebook.com/shamim.anowar.developer/" style="">Facebook</a>, <a href="https://www.linkedin.com/in/shamimanowar/" style="">Linkedin</a>, <a href="https://t.me/+8801612879888"> Telegram</a> or <a href="https://wa.me/8801612879888"> WhatsApp</a>.
+
+😀 Passionate about coding and solving software-based problems.
+
+⚡ Daydreamer and tech enthusiast.
+
+## Technologies
+
+<div style="display: flex; flex-wrap: wrap;">
+   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" style="margin-right: 10px;">
+   <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" alt="Python" style="margin-right: 10px;">
+   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="TypeScript" style="margin-right: 10px;">
+   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="React" style="margin-right: 10px;">
+
+   <img height="20" src="https://reactnative.dev/img/header_logo.svg" alt="React Native" style="margin-right: 10px;">
+   <img height="20" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django" style="margin-right: 10px;">
+   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" alt="Docker" style="margin-right: 10px;">
+   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="AWS" style="margin-right: 10px;">
+   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/nextjs-3-1175170.png" alt="NextJS" style="margin-right: 10px;">
+   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" alt="PostgreSQL" style="margin-right: 10px;">
+   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png" alt="NodeJS" style="margin-right: 10px;">
+</div>
+<br>
+
+   <div>
+   <img src="https://github-readme-stats.vercel.app/api?username=Shamimanowar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> <br/> <a href="https://github.com/iampawan">
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamimanowar&theme=dark&hide_langs_below=1"/>
+   </div>
+
+<br>
+
+<a href="https://t.me/+8801612879888"> Telegram</a> or <a href="https://wa.me/8801612879888"> WhatsApp</a>
+
+Thank You For Your Visit !!
 </a>
