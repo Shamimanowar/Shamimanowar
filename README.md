@@ -2,13 +2,13 @@
 
 <br/> <br/>
 
-🔭 I’m currently working at BuildNow, KSA.
+🔭 I’m currently working as a <b>Fullstack Software Engineer </b>at BuildNow, KSA.
 
 🏫 B.Sc in Mechanical Engineering.
 
 🌱 Dreaming for Tech Giants.
 
-💻 Proficient in Tailwind, JavaScript, TypeScript, ReactJS, NextJS, React Native, Python, Django, and MySQL, Docker, AWS.
+💻 Proficient in <b> Tailwind, JavaScript, TypeScript, ReactJS, NextJS, React Native, Python, Django, SQL, Docker, AWS, Ansible and Kubernetes.</b>
 
 💬 Feel free to ask me about these technologies or any tech-related topics.
 
@@ -20,7 +20,7 @@
 
 ## Technologies
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; background:#DDD0DD;gap:10px;border:2px solid wheat;color: #fff; border-radius: 10px; padding:20px;justify-content:center;align-items:center">
    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" style="margin-right: 10px;">
    <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" alt="Python" style="margin-right: 10px;">
    <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="TypeScript" style="margin-right: 10px;">
@@ -36,15 +36,16 @@
 </div>
 <br>
 
-   <div>
+   <div style="display:flex;flex-direction:column;align-items:center">
    <img src="https://github-readme-stats.vercel.app/api?username=Shamimanowar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> <br/> <a href="https://github.com/iampawan">
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamimanowar&theme=dark&hide_langs_below=1"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamimanowar&theme=dark&hide_langs_below=1" style=""/>
    </div>
 
 <br>
 
-<a href="https://t.me/+8801612879888"> Telegram</a> or <a href="https://wa.me/8801612879888"> WhatsApp</a>
+<a></a> Click to Connect via <a href="https://t.me/+8801612879888"> Telegram</a> or <a href="https://wa.me/8801612879888"> WhatsApp</a>
 
-Thank You For Your Visit !!
+Thanks a Ton For Your Visit !!<br>
+<b>Send me your projects to earn a star.</b>
 </a>
