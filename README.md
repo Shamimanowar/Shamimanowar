@@ -37,7 +37,7 @@
 <br>
 
    <div style="display:flex;flex-direction:column;align-items:center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Shamimanowar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> <br/> <a href="https://github.com/iampawan">
+<!--    <img src="https://github-readme-stats.vercel.app/api?username=Shamimanowar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> <br/> <a href="https://github.com/iampawan"> -->
 
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamimanowar&theme=dark&hide_langs_below=1" style=""/>
    </div>
