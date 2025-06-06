@@ -1,51 +1,125 @@
-<a href="https://www.linkedin.com/in/shamim.anowar/"> <img align="left" alt="Shamim's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color: white" /> </a> <a href="https://github.com/Shamimanowar"> <img align="left" alt="Shamim's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="background-color: white" /> </a> <a href="https://t.me/shamim_anowar"> <img align="left" alt="Shamim's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="background-color: white" /> </a> <a href="https://www.facebook.com/shamim.anowar.junior.developer/"> <img align="left" alt="Shamim's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="background-color: white" /> </a>
+<!-- filepath: d:/Shipu/README.md -->
 
-<br/> <br/>
+<h1 align="center">🚀 Shamim Anowar</h1>
+<p align="center">
+  <b>Software Engineer (SDE-II)</b> <br/>
+  <a href="mailto:shm.anowar@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/shamimanowar/">💼 LinkedIn</a> |
+  <a href="tel:+8801612879888">📱 +880 1612879888</a>
+</p>
 
-🔭 I’m currently working as a <b>Fullstack Software Engineer </b>at BuildNow, KSA.
+---
 
-🏫 B.Sc in Mechanical Engineering.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,aws,docker,postgres,go,fastapi,redux,tailwind,git,ansible,terraform,azure" alt="Tech Stack" height="32"/>
+</p>
 
-🌱 Dreaming for Tech Giants.
+---
 
-💻 Proficient in <b> Tailwind, JavaScript, TypeScript, ReactJS, NextJS, React Native, Python, Django, SQL, Docker, AWS, Ansible and Kubernetes.</b>
+### 👋 About Me
 
-💬 Feel free to ask me about these technologies or any tech-related topics.
+Hi! I'm Shamim, a passionate Software Engineer (SDE-II) with a knack for building robust backends, automating DevOps, and integrating modern tech to solve real-world problems. Currently at <b>Buildnow</b> (Riyadh, KSA), I thrive on challenges and love collaborating with innovative teams.
 
-📫 Reach me on <a href="https://www.facebook.com/shamim.anowar.developer/" style="">Facebook</a>, <a href="https://www.linkedin.com/in/shamimanowar/" style="">Linkedin</a>, <a href="https://t.me/+8801612879888"> Telegram</a> or <a href="https://wa.me/8801612879888"> WhatsApp</a>.
+---
 
-😀 Passionate about coding and solving software-based problems.
+### 💼 Experience
 
-⚡ Daydreamer and tech enthusiast.
+**Buildnow** | <em>Software Engineer | Jul 2022 — Present, Riyadh, KSA</em>
+- 🏗️ Scalable backends with Django Rest Framework, FastAPI, Express
+- 🔄 CI/CD pipelines for seamless testing, builds, and deployments
+- ☁️ AWS infrastructure with Ansible & Terraform
+- 🛡️ Service monitoring & emergency response
+- 🤖 ML model integration & deployment
+- 🏦 Open Banking (Lean Technologies) for secure data aggregation
+- 🔗 Secure banking channels (Buildnow ↔ ANB)
+- 📝 Digital document signing with SignIT
+- 📲 Real-time notifications & OTP delivery
+- 📰 Automated web scrapers for lead generation
 
-## Technologies
+**invenShape (Freelance)** | <em>Technical Consultant | Feb 2025 — Present, Dhaka, Bangladesh</em>
+- 🛠️ Technical consultancy & troubleshooting
+- 🔍 Predicting & resolving bugs/performance bottlenecks
+- 🚀 CI/CD optimization & deployment
+- 🖥️ Server management for efficiency
 
-<div style="display: flex; flex-wrap: wrap; background:#DDD0DD;gap:10px;border:2px solid wheat;color: #fff; border-radius: 10px; padding:20px;justify-content:center;align-items:center">
-   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" style="margin-right: 10px;">
-   <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" alt="Python" style="margin-right: 10px;">
-   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="TypeScript" style="margin-right: 10px;">
-   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="React" style="margin-right: 10px;">
+**Initvent Consulting Services Ltd** | <em>Software Engineer | Mar 2022 — Aug 2022, Dhaka, Bangladesh</em>
+- 🎯 Delivered projects with Python, Go, Django, PostgresQL, React, and more
+- 🎨 Transformed Figma designs into ReactJS interfaces
 
-   <img height="20" src="https://reactnative.dev/img/header_logo.svg" alt="React Native" style="margin-right: 10px;">
-   <img height="20" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django" style="margin-right: 10px;">
-   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" alt="Docker" style="margin-right: 10px;">
-   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="AWS" style="margin-right: 10px;">
-   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/nextjs-3-1175170.png" alt="NextJS" style="margin-right: 10px;">
-   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" alt="PostgreSQL" style="margin-right: 10px;">
-   <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png" alt="NodeJS" style="margin-right: 10px;">
+---
+
+### 🎓 Education
+
+**Bangladesh University of Textiles (BUTEX)**  
+B.S., Machinery Design and Maintenance Engineering, Dec 2022
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </div>
-<br>
 
-   <div style="display:flex;flex-direction:column;align-items:center">
-<!--    <img src="https://github-readme-stats.vercel.app/api?username=Shamimanowar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> <br/> <a href="https://github.com/iampawan"> -->
+- **Backend:** Python, SQL, Django Rest Framework, FastAPI, NodeJS, LLM
+- **Frontend:** TypeScript, React, NextJs, Tailwind CSS, Redux, Expo
+- **Database:** PostgresQL, Redis, ELK
+- **DevOps & Cloud:** AWS, DigitalOcean, Docker, Ansible, Terraform, Git, CI/CD
+- **IoT & Automation:** IoT device integration, automation workflows
+- **Testing:** Pytest, Cypress, Postman
+- **Scraping:** BeautifulSoup4, Scrapy
+- **Soft Skills:** Team player, Adaptability
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamimanowar&theme=dark&hide_langs_below=1" style=""/>
-   </div>
+---
 
-<br>
+### 🚀 Notable Contributions
 
-<a></a> Click to Connect via <a href="https://t.me/+8801612879888"> Telegram</a> or <a href="https://wa.me/8801612879888"> WhatsApp</a>
+- <b>Lead Generation & Sales Optimization:</b> Automated web scrapers to extract and refine targeted data from newspapers, integrating with Zoho CRM to boost sales growth.
 
-Thanks a Ton For Your Visit !!<br>
-<b>Send me your projects to earn a star.</b>
-</a>
+---
+
+### 📚 Coursework & Certifications
+
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-305) — Running
+- Data Structure and Algorithms
+- Differential Equation, Integral Equation, Probability, Linear Algebra
+- Elasticsearch Essential Training
+- Fullstack Web Development with Python and JavaScript
+
+---
+
+### 🌱 Interests
+
+🏋️‍♂️ Fitness & Mental Resilience | 💡 Tech & Innovation | 🌍 Travelling | 🥗 Nutrition & Wellness
+
+---
+
+### 🌐 Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/Shamim007/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.interviewbit.com/profile/shamim-anowar/" target="_blank"><img src="https://img.shields.io/badge/InterviewBit-1F8ACB?style=for-the-badge&logo=interviewbit&logoColor=white"/></a>
+  <a href="https://gitlab.com/shamim_anowar" target="_blank"><img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+  <a href="https://github.com/Shamimanowar" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://codingbat.com/done?user=shamimanowar.shanto@yahoo.com&tag=6150274248" target="_blank"><img src="https://img.shields.io/badge/Codingbat-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://medium.com/@shm.anowar" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"><b>✨ Thanks for visiting! Let's connect and build something amazing together. ✨</b></p>
