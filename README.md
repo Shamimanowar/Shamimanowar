@@ -109,6 +109,62 @@ B.S., Machinery Design and Maintenance Engineering, Dec 2022
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center" style="background:#18191A; border-radius:8px; padding:20px; max-width:420px; margin:auto; color:#fff; border:1px solid #aaa;">
+  <table style="width:100%; border:none; color:#fff; font-size:1.05em;">
+    <tr>
+      <td colspan="3" style="font-size:1.25em; font-weight:bold; padding-bottom:10px;">Shamim Anowar's GitHub Stats</td>
+    </tr>
+    <tr>
+      <td>⭐ <b>Total Stars Earned:</b></td><td>43</td><td rowspan="5" align="center" style="vertical-align:middle;">
+        <svg width="80" height="80" viewBox="0 0 80 80">
+          <circle cx="40" cy="40" r="36" stroke="#444" stroke-width="6" fill="none"/>
+          <circle cx="40" cy="40" r="36" stroke="#fff" stroke-width="6" fill="none" stroke-dasharray="226.2" stroke-dashoffset="45"/>
+          <text x="40" y="50" text-anchor="middle" font-size="2em" font-weight="bold" fill="#fff">A+</text>
+        </svg>
+      </td>
+    </tr>
+    <tr>
+      <td>⏱️ <b>Total Commits (2025):</b></td><td>314</td>
+    </tr>
+    <tr>
+      <td>🔀 <b>Total PRs:</b></td><td>47</td>
+    </tr>
+    <tr>
+      <td>❗ <b>Total Issues:</b></td><td>1</td>
+    </tr>
+    <tr>
+      <td>🚌 <b>Contributed to (last year):</b></td><td>3</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="background:#18191A; border-radius:8px; padding:20px; max-width:420px; margin:auto; color:#fff; border:1px solid #aaa; margin-top:24px;">
+  <table style="width:100%; border:none; color:#fff; font-size:1.05em;">
+    <tr>
+      <td colspan="2" style="font-size:1.15em; font-weight:bold; padding-bottom:10px;">Most Used Languages</td>
+    </tr>
+    <tr>
+      <td>Python</td><td align="right">34.84%</td>
+    </tr>
+    <tr>
+      <td>TypeScript</td><td align="right">30.93%</td>
+    </tr>
+    <tr>
+      <td>JavaScript</td><td align="right">20.56%</td>
+    </tr>
+    <tr>
+      <td>CSS</td><td align="right">7.96%</td>
+    </tr>
+    <tr>
+      <td>HTML</td><td align="right">5.71%</td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🌐 Profiles
 
 <p align="center">
@@ -118,6 +174,17 @@ B.S., Machinery Design and Maintenance Engineering, Dec 2022
   <a href="https://github.com/Shamimanowar" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://codingbat.com/done?user=shamimanowar.shanto@yahoo.com&tag=6150274248" target="_blank"><img src="https://img.shields.io/badge/Codingbat-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://medium.com/@shm.anowar" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+
+---
+
+### 📞 Contact
+
+<p align="center">
+  Click to Connect via <a href="https://t.me/+8801612879888">Telegram</a> or <a href="https://wa.me/8801612879888">WhatsApp</a>
+  <br><br>
+  Thanks a Ton For Your Visit !!<br>
+  <b>Send me your projects to earn a star.</b>
 </p>
 
 ---
