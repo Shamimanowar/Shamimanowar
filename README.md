@@ -76,10 +76,10 @@ B.S., Machinery Design and Maintenance Engineering, Dec 2022
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </div>
 
-- **Backend:** Python, SQL, Django Rest Framework, FastAPI, NodeJS, LLM
+- **Backend:** Python, SQL, Django Rest Framework, Content Type Framework, FastAPI, NodeJS, LLM
 - **Frontend:** TypeScript, React, NextJs, Tailwind CSS, Redux, Expo
 - **Database:** PostgresQL, Redis, ELK
-- **DevOps & Cloud:** AWS, DigitalOcean, Docker, Ansible, Terraform, Git, CI/CD
+- **DevOps & Cloud:** AWS, DigitalOcean, Docker, Ansible, Terraform, Git, CI/CD Pipeline
 - **IoT & Automation:** IoT device integration, automation workflows
 - **Testing:** Pytest, Cypress, Postman
 - **Scraping:** BeautifulSoup4, Scrapy
@@ -141,7 +141,7 @@ B.S., Machinery Design and Maintenance Engineering, Dec 2022
 </div>
 
 <div align="center" style="background:#18191A; border-radius:8px; padding:20px; max-width:420px; margin:auto; color:#fff; border:1px solid #aaa; margin-top:24px;">
-  <table style="width:100%; border:none; color:#fff; font-size:1.05em;">
+  <table style="width:100%; min-witdh:300px; border:none; color:#fff; font-size:1.05em;">
     <tr>
       <td colspan="2" style="font-size:1.15em; font-weight:bold; padding-bottom:10px;">Most Used Languages</td>
     </tr>
