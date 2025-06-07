@@ -76,10 +76,10 @@ B.S., Machinery Design and Maintenance Engineering, Dec 2022
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </div>
 
-- **Backend:** Python, SQL, Django Rest Framework, Content Type Framework, FastAPI, NodeJS, LLM
+- **Backend:** Python, SQL, Django Rest Framework, FastAPI, NodeJS, LLM
 - **Frontend:** TypeScript, React, NextJs, Tailwind CSS, Redux, Expo
 - **Database:** PostgresQL, Redis, ELK
-- **DevOps & Cloud:** AWS, DigitalOcean, Docker, Ansible, Terraform, Git, CI/CD Pipeline
+- **DevOps & Cloud:** AWS, DigitalOcean, Docker, Ansible, Terraform, Git, CI/CD
 - **IoT & Automation:** IoT device integration, automation workflows
 - **Testing:** Pytest, Cypress, Postman
 - **Scraping:** BeautifulSoup4, Scrapy
@@ -111,56 +111,40 @@ B.S., Machinery Design and Maintenance Engineering, Dec 2022
 
 ### 📊 GitHub Stats
 
-<div align="center" style="background:#18191A; border-radius:8px; padding:20px; max-width:420px; margin:auto; color:#fff; border:1px solid #aaa;">
-  <table style="width:100%; border:none; color:#fff; font-size:1.05em;">
-    <tr>
-      <td colspan="3" style="font-size:1.25em; font-weight:bold; padding-bottom:10px;">Shamim Anowar's GitHub Stats</td>
-    </tr>
-    <tr>
-      <td>⭐ <b>Total Stars Earned:</b></td><td>43</td><td rowspan="5" align="center" style="vertical-align:middle;">
-        <svg width="80" height="80" viewBox="0 0 80 80">
-          <circle cx="40" cy="40" r="36" stroke="#444" stroke-width="6" fill="none"/>
-          <circle cx="40" cy="40" r="36" stroke="#fff" stroke-width="6" fill="none" stroke-dasharray="226.2" stroke-dashoffset="45"/>
-          <text x="40" y="50" text-anchor="middle" font-size="2em" font-weight="bold" fill="#fff">A+</text>
-        </svg>
-      </td>
-    </tr>
-    <tr>
-      <td>⏱️ <b>Total Commits (2025):</b></td><td>314</td>
-    </tr>
-    <tr>
-      <td>🔀 <b>Total PRs:</b></td><td>47</td>
-    </tr>
-    <tr>
-      <td>❗ <b>Total Issues:</b></td><td>1</td>
-    </tr>
-    <tr>
-      <td>🚌 <b>Contributed to (last year):</b></td><td>3</td>
-    </tr>
-  </table>
-</div>
+<div align="center">
 
-<div align="center" style="background:#18191A; border-radius:8px; padding:20px; max-width:420px; margin:auto; color:#fff; border:1px solid #aaa; margin-top:24px;">
-  <table style="width:100%; min-witdh:300px; border:none; color:#fff; font-size:1.05em;">
-    <tr>
-      <td colspan="2" style="font-size:1.15em; font-weight:bold; padding-bottom:10px;">Most Used Languages</td>
-    </tr>
-    <tr>
-      <td>Python</td><td align="right">34.84%</td>
-    </tr>
-    <tr>
-      <td>TypeScript</td><td align="right">30.93%</td>
-    </tr>
-    <tr>
-      <td>JavaScript</td><td align="right">20.56%</td>
-    </tr>
-    <tr>
-      <td>CSS</td><td align="right">7.96%</td>
-    </tr>
-    <tr>
-      <td>HTML</td><td align="right">5.71%</td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td valign="top">
+
+<!-- GitHub Stats Table -->
+
+|  |  |
+|---|---|
+| ⭐ **Total Stars Earned:** | 43 |
+| ⏱️ **Total Commits (2025):** | 314 |
+| 🔀 **Total PRs:** | 47 |
+| ❗ **Total Issues:** | 1 |
+| 🚌 **Contributed to (last year):** | 3 |
+| **Grade:** | 🅰️+ |
+
+</td>
+<td valign="top">
+
+<!-- Most Used Languages Table -->
+
+| **Most Used Languages** | **Percentage** |
+|------------------------|---------------|
+| Python      | 34.84%     |
+| TypeScript  | 30.93%     |
+| JavaScript  | 20.56%     |
+| CSS         | 7.96%      |
+| HTML        | 5.71%      |
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
