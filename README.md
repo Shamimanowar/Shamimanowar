@@ -125,7 +125,7 @@ B.S., Machinery Design and Maintenance Engineering, Dec 2022
 |  |  |
 |---|---|
 | ⭐ **Total Stars Earned:** | 43 |
-| ⏱️ **Total Commits (2025):** | 314 |
+| ⏱️ **Total Commits (2025):** | 1314 |
 | 🔀 **Total PRs:** | 47 |
 | ❗ **Total Issues:** | 1 |
 | 🚌 **Contributed to (last year):** | 3 |
