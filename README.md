@@ -148,7 +148,7 @@ B.S., Machinery Design and Maintenance Engineering, Dec 2022
 
 <!-- GitHub Streak Stats for accurate commit tracking -->
 <br/>
-<img src="https://streak-stats.demolab.com/?user=Shamimanowar&theme=dark&background=191919&border=bb2acf&stroke=daf7dc&ring=bb2acf&fire=bb2acf&currStreakNum=daf7dc&sideNums=daf7dc&currStreakLabel=daf7dc&sideLabels=daf7dc&dates=daf7dc" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamimanowar&theme=dark" alt="GitHub Streak Stats" />
 
 </div>
 
