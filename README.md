@@ -116,37 +116,39 @@ B.S., Machinery Design and Maintenance Engineering, Dec 2022
 
 <div align="center">
 
+<!-- Dynamic GitHub Stats using multiple sources -->
+<img src="https://komarev.com/ghpvc/?username=Shamimanowar&color=bb2acf&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+<br/><br/>
+
 <table>
 <tr>
 <td valign="top">
 
-<!-- GitHub Stats Table -->
+<!-- Auto-updating GitHub Stats -->
 
 |  |  |
 |---|---|
-| ⭐ **Total Stars Earned:** | 43 |
-| ⏱️ **Total Commits (2025):** | 1314 |
-| 🔀 **Total PRs:** | 47 |
-| ❗ **Total Issues:** | 1 |
-| 🚌 **Contributed to (last year):** | 3 |
-| **Grade:** | 🅰️+ |
+| ⭐ **Total Stars Earned:** | ![GitHub User's stars](https://img.shields.io/github/stars/Shamimanowar?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Total%20Stars) |
+| ⏱️ **Total Commits (2025):** | ![GitHub commit activity](https://img.shields.io/badge/Total%20Commits-1182%2B-brightgreen?style=social&logo=github) |
+| 🔀 **Total PRs:** | ![GitHub pull requests](https://img.shields.io/github/issues-pr/Shamimanowar/Shamimanowar?style=social&label=PRs) |
+| ❗ **Total Issues:** | ![GitHub issues](https://img.shields.io/github/issues/Shamimanowar/Shamimanowar?style=social&label=Issues) |
+| 🚌 **Repositories:** | ![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FShamimanowar&query=%24.public_repos&style=social&logo=github&label=Public%20Repos&color=blue) |
+| **Followers:** | ![GitHub followers](https://img.shields.io/github/followers/Shamimanowar?style=social&label=Followers) |
 
 </td>
 <td valign="top">
 
-<!-- Most Used Languages Table -->
-
-| **Most Used Languages** | **Percentage** |
-|------------------------|---------------|
-| Python      | 34.84%     |
-| TypeScript  | 30.93%     |
-| JavaScript  | 20.56%     |
-| CSS         | 7.96%      |
-| HTML        | 5.71%      |
+<!-- Real-time Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamimanowar&layout=compact&theme=dark&bg_color=191919&title_color=ffffff&text_color=daf7dc&border_color=bb2acf&hide_border=false&count_private=true&include_all_commits=true" alt="Top Languages" width="100%" />
 
 </td>
 </tr>
 </table>
+
+<!-- GitHub Streak Stats for accurate commit tracking -->
+<br/>
+<img src="https://streak-stats.demolab.com/?user=Shamimanowar&theme=dark&background=191919&border=bb2acf&stroke=daf7dc&ring=bb2acf&fire=bb2acf&currStreakNum=daf7dc&sideNums=daf7dc&currStreakLabel=daf7dc&sideLabels=daf7dc&dates=daf7dc" alt="GitHub Streak Stats" />
 
 </div>
 
