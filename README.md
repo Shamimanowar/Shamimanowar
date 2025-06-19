@@ -79,7 +79,7 @@ B.S., Machinery Design and Maintenance Engineering, Dec 2022
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </div>
 
-- **Backend:** Python, SQL, Django Rest Framework, FastAPI, NodeJS, LLM
+- **Backend:** Python, SQL, Django Rest Framework, FastAPI, NodeJS, LLM, MCP Server, Nginx
 - **Frontend:** TypeScript, React, NextJs, Tailwind CSS, Redux, Expo
 - **Database:** PostgresQL, Redis, ELK
 - **DevOps & Cloud:** AWS, DigitalOcean, Docker, Ansible, Terraform, Git, CI/CD
