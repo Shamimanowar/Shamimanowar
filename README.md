@@ -146,16 +146,6 @@ B.S., Machinery Design and Maintenance Engineering, Dec 2022
 </tr>
 </table>
 
-<!-- GitHub Streak Stats for accurate commit tracking -->
-<br/>
-<!-- Multiple streak stat sources for reliability -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamimanowar&theme=dark&background=191919&border=bb2acf&stroke=daf7dc&ring=bb2acf&fire=bb2acf&currStreakNum=daf7dc&sideNums=daf7dc&currStreakLabel=daf7dc&sideLabels=daf7dc&dates=daf7dc" alt="GitHub Streak Stats" />
-
-<!-- Backup activity graph if streak stats fail -->
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shamimanowar&theme=react-dark&bg_color=191919&color=daf7dc&line=bb2acf&point=bb2acf&area=true&hide_border=false&area_color=bb2acf" alt="GitHub Activity Graph" />
-
-<br/>
 
 </div>
 
