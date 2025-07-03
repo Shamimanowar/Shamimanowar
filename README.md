@@ -42,7 +42,7 @@ Hi! I'm Shamim, a passionate Software Engineer (SDE-II) with a knack for buildin
 **invenShape (Freelance)** | <em>Technical Consultant | Feb 2025 — Present, Dhaka, Bangladesh</em>
 - 🛠️ Technical consultancy & troubleshooting
 - 🔍 Predicting & resolving bugs/performance bottlenecks
-- 🚀 CI/CD optimization & deployment
+- 🚀 CI/CD optimization & the deployment
 - 🖥️ Server management for efficiency
 
 **Initvent Consulting Services Ltd** | <em>Software Engineer | Mar 2022 — Aug 2022, Dhaka, Bangladesh</em>
@@ -54,7 +54,7 @@ Hi! I'm Shamim, a passionate Software Engineer (SDE-II) with a knack for buildin
 ### 🎓 Education
 
 **Bangladesh University of Textiles (BUTEX)**  
-B.S., Machinery Design and Maintenance Engineering, Dec 2022
+B.S., Machinery Design and Maintenance Engineering, Dec 2023
 
 ---
 
