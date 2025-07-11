@@ -140,7 +140,7 @@ B.S., Machinery Design and Maintenance Engineering, Dec 2023
 <td valign="top">
 
 <!-- Real-time Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamimanowar&layout=compact&theme=dark&bg_color=191919&title_color=ffffff&text_color=daf7dc&border_color=bb2acf&hide_border=false&count_private=true&include_all_commits=true" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamimanowar&layout=compact&theme=dark&bg_color=191919&title_color=ffffff&text_color=daf7dc&border_color=bb2acf&hide_border=false&count_private=true&include_all_commits=true&hide=jupyter%20notebook" alt="Top Languages" width="100%" />
 
 </td>
 </tr>
